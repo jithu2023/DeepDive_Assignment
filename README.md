@@ -1,9 +1,21 @@
+Here’s your updated `README.md` with the **video walkthrough** and **GitHub repo** links added under a new section called `📽 Demo & Links`. I've preserved your formatting and style.
+
+---
+
+```markdown
 # 🚀 DeepDive Auth App — Next.js 13 + TypeScript + Material UI
 
 A modern, responsive authentication app built with **Next.js 13 (App Router)**, **TypeScript**, and **Material UI**, featuring Google OAuth integration via **NextAuth.js**. This application includes:
 
 - `/landing-page`: A public landing page with a Google sign-in option.
 - `/personal-page`: A protected user dashboard displaying profile information post-login.
+
+---
+
+## 📽 Demo & Links
+
+- ▶️ **Video Walkthrough**: [Watch here](https://drive.google.com/file/d/1E3ca0_NvUkZqZh6s38qsY0m0KVooDD_C/view?usp=sharing)  
+- 🗂 **GitHub Repository**: [DeepDive_Assignment](https://github.com/jithu2023/DeepDive_Assignment)
 
 ---
 
@@ -90,7 +102,7 @@ src/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/deepdive-auth-app.git
+   git clone https://github.com/jithu2023/DeepDive_Assignment.git
    cd deepdive-auth-app
    ```
 
@@ -160,10 +172,5 @@ This project demonstrates:
 ## 🤝 Author
 
 Built with ❤️ by **Jithumon Jacob**  
-[GitHub Profile](https://github.com/jithumonjacob)
+[GitHub Profile](https://github.com/jithu2023)
 
----
-
-```
-
-Feel free to customize this `README.md` further to match your project's specifics or personal preferences. Let me know if you need assistance with any other part of your project! 
